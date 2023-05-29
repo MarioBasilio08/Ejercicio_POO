@@ -10,32 +10,26 @@ namespace Control_horas_trabajo
     {
         static void Main(string[] args)
         {
-            int seqIdDev = 0;
-            int seqIdProject = 0;
-            int op = 0;
+            int seqIdDev = 1;
+            int seqIdProject = 1;
+            int op = -1;
             int idDev;
             int idAssi;
-            int hours;
             int indexDev;
             int indexProject;
 
             Proyecto project = new Proyecto();
             Desarrollador dev = new Desarrollador();
-            
+
             List<Desarrollador> Developers = new List<Desarrollador>();
             List<Proyecto> Projects = new List<Proyecto>();
             List<Registro_Horas> TimeRecord = new List<Registro_Horas>();
 
-            //DateTime dat = new DateTime(2023, 05, 22);
-            //seqIdDev++;
-
-            //Desarrollador des1 = new Desarrollador(seqIdDev, "Mario",dat,"andres.basilio@outlook.es", 1);
-
-            //des1.Presentacion();
-
-            //Console.WriteLine(des1.getidDeveloper());
-
-
+            DateTime d = new DateTime(2023, 05, 22);
+            dev = new Desarrollador(seqIdDev, "Mario Andres Basilio Lopez", d, "andres.basilio@outlook.es", 1);
+            project = new Proyecto(seqIdProject, "Tesis New Talents", 1, 400, d);
+            Developers.Add(dev);
+            Projects.Add(project);
 
             do
             {
@@ -45,8 +39,7 @@ namespace Control_horas_trabajo
                 Console.WriteLine("1\t Sistema de registro desarrollador/proyecto");
                 Console.WriteLine("2\t Sistema de control de horas de trabajador");
                 Console.WriteLine("3\t Lista de Desarrolladores con Proyectos");
-                Console.WriteLine("4\t Lista de Proyectos con Desarrollador");
-                Console.WriteLine("5\t Salir");
+                Console.WriteLine("0\t Salir");
                 Console.WriteLine();
 
                 op = int.Parse(Console.ReadLine());
@@ -223,7 +216,7 @@ namespace Control_horas_trabajo
                         break;
 
                 }
-            } while (op != 5);
+            } while (op != 0);
         }
 
     }

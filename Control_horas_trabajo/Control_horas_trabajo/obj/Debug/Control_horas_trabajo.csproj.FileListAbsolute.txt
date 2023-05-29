@@ -6,3 +6,11 @@ D:\Trabajo\Ejercicios\Control_horas_trabajo\Control_horas_trabajo\obj\Debug\Cont
 D:\Trabajo\Ejercicios\Control_horas_trabajo\Control_horas_trabajo\obj\Debug\Control_horas_trabajo.csproj.CoreCompileInputs.cache
 D:\Trabajo\Ejercicios\Control_horas_trabajo\Control_horas_trabajo\obj\Debug\Control_horas_trabajo.exe
 D:\Trabajo\Ejercicios\Control_horas_trabajo\Control_horas_trabajo\obj\Debug\Control_horas_trabajo.pdb
+D:\Trabajo\Ejercicios\Ejercicio_POO\Control_horas_trabajo\Control_horas_trabajo\bin\Debug\Control_horas_trabajo.exe.config
+D:\Trabajo\Ejercicios\Ejercicio_POO\Control_horas_trabajo\Control_horas_trabajo\bin\Debug\Control_horas_trabajo.exe
+D:\Trabajo\Ejercicios\Ejercicio_POO\Control_horas_trabajo\Control_horas_trabajo\bin\Debug\Control_horas_trabajo.pdb
+D:\Trabajo\Ejercicios\Ejercicio_POO\Control_horas_trabajo\Control_horas_trabajo\obj\Debug\Control_horas_trabajo.csproj.AssemblyReference.cache
+D:\Trabajo\Ejercicios\Ejercicio_POO\Control_horas_trabajo\Control_horas_trabajo\obj\Debug\Control_horas_trabajo.csproj.SuggestedBindingRedirects.cache
+D:\Trabajo\Ejercicios\Ejercicio_POO\Control_horas_trabajo\Control_horas_trabajo\obj\Debug\Control_horas_trabajo.csproj.CoreCompileInputs.cache
+D:\Trabajo\Ejercicios\Ejercicio_POO\Control_horas_trabajo\Control_horas_trabajo\obj\Debug\Control_horas_trabajo.exe
+D:\Trabajo\Ejercicios\Ejercicio_POO\Control_horas_trabajo\Control_horas_trabajo\obj\Debug\Control_horas_trabajo.pdb
