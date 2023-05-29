@@ -142,6 +142,7 @@ namespace Control_horas_trabajo
             foreach(Proyecto proj in this.projects)
             {
                 proj.detailsProject();
+                Console.WriteLine();
             }
         }
     }
